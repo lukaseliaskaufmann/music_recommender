@@ -1,6 +1,5 @@
 # 🎵 Music Recommender System – Weight Optimization with Optuna
 
-**Author:** Lukas Kaufmann
 **Project Type:** Learning from user generated data - Challenge Submission 
 **Goal:** Optimize a hybrid music recommender system using ensemble learning and Bayesian optimization.
 
